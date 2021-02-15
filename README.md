@@ -1,4 +1,4 @@
-# Spootify Coding Challenge 🎧
+# Deezer Coding Challenge 🎧
 
 ### Difficulty: Hard | Time required: ~ 30-45 minutes
 
@@ -7,7 +7,7 @@
 - Loading state and knowing where and how to make multiple API calls efficiently
 
 # Pre-requisites ✅
-- Add your Spotify client ID & secret to `config.js`
+- Add your Deezer client ID & secret to `config.js`
   - Note. **Never add this type of config to version control. This would usually come from your build server.**
 
 # Requirements 📖
@@ -22,14 +22,14 @@
 - Loading state/UI *(optional, current UX is already clean)*
 
 # Think about 💡
-- Taking a look at the Spotify API documentation
+- Taking a look at the Deezer API documentation
 - Do you resolve each API request one after the other or in parallel?
 - Where do you make the API requests?
 - How much logic do you offload out of the UI components?
 
 <!-- # What's Already Been Done 🏁
 - UI/UX for all elements, including previews (mobile responsive)
-- A Spotify request helper (`makeRequest.js`) -->
+- A Deezer request helper (`makeRequest.js`) -->
 
 # Screenshots 🌄
 
