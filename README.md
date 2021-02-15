@@ -21,6 +21,8 @@
   - Use the API path `categories`
 - Loading state/UI *(optional, current UX is already clean)*
 
+Deezers API: [https://developers.deezer.com/api](https://developers.deezer.com/api)
+
 # Think about 💡
 - Taking a look at the Deezer API documentation
 - Do you resolve each API request one after the other or in parallel?
