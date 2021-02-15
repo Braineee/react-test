@@ -11,6 +11,8 @@
   - Note. **Never add this type of config to version control. This would usually come from your build server.**
 
 # Requirements 📖
+- Develope the UI/UX
+  - Use the design screen provided below in this markdown.
 - Fetch and display *Released This Week* songs
   - Use the API path `new-releases`
 - Fetch and display *Featured Playlists*
@@ -25,9 +27,9 @@
 - Where do you make the API requests?
 - How much logic do you offload out of the UI components?
 
-# What's Already Been Done 🏁
+<!-- # What's Already Been Done 🏁
 - UI/UX for all elements, including previews (mobile responsive)
-- A Spotify request helper (`makeRequest.js`)
+- A Spotify request helper (`makeRequest.js`) -->
 
 # Screenshots 🌄
 
